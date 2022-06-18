@@ -1,0 +1,35 @@
+Enter the name of Student #1
+James Lee Johnson
+Enter quiz #1 for James Lee Johnson
+85.20
+Enter the name of Student #2
+Mary Beth Williams
+Enter the quiz #2 for Mary Beth Williams
+100.00
+Enter the name of Student #3
+John Brown
+Enter quiz #3 for John Brown
+78.50
+Enter the name of Student #4
+Jeff Rogers
+Enter the quiz #4 for Jeff Rogers
+89.20
+Enter the name of Student #5
+David Michael Brown
+Enter the quiz #5 for David Michael Brown
+95.80
+================================================
+STUDENT QUIZZES
+===============================================
+STUDENT NAME QUIZZES
+======================================
+James Lee Johnson                                             85.20
+Mary Beth Williams                                           100.00
+John Brown                                                    78.50
+Jeff Rogers                                                   89.20
+David Michael Brown                                           95.80
+===================================================================
+Total of the quizzes =   448.70
+===================================================================
+QUIZ AVERAGE =            89.74%
+===================================================================
